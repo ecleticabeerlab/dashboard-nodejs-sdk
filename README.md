@@ -1,2 +1,1 @@
-# dashboard-nodejs-sdk
-Eclética Beer Dashboard :: NodeJs Sdk
+# Eclética Beer Dashboard :: NodeJs SDK
